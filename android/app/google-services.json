@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139629145714",
+    "project_id": "weatherapp-3895b",
+    "storage_bucket": "weatherapp-3895b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139629145714:android:130b7d3aaad70682a31ceb",
+        "android_client_info": {
+          "package_name": "com.lodewyk.weather_warner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139629145714-12uo0lt73f5p4vfac8phk6engv3j4v4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhmON0uFZGN3rxBv-pDNF2ucQGCkTKEt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139629145714-12uo0lt73f5p4vfac8phk6engv3j4v4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
